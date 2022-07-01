@@ -3,4 +3,6 @@ def add(a,b):
 	print(result)
 def mul(a,b):
 	result=a*b
+def sum(a,b):
+	result=a-b
 	print(result)
